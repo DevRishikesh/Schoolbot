@@ -5,7 +5,7 @@ const { runQuery, getQuery, allQuery } = require('./db');
 
 // --- CONFIGURATION ---
 // IMPORTANT: Add your admin phone number here with country code, NO '+' sign.
-const ADMIN_NUMBER = '919876543210@c.us'; 
+const ADMIN_NUMBER = '919962371869@c.us'; 
 
 // Initialize WhatsApp Client with persistent session
 const client = new Client({
